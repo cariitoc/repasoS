@@ -1,0 +1,262 @@
+{
+  "project_info": {
+    "project_number": "210079289590",
+    "firebase_url": "https://registro-56696.firebaseio.com",
+    "project_id": "registro-56696",
+    "storage_bucket": "registro-56696.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210079289590:android:9e656afc2728d396",
+        "android_client_info": {
+          "package_name": "com.example.a1144102654.firebaseui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210079289590-b8aaabkoidjgobtgveas1g51t6vu3be0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a1144102654.firebaseui",
+            "certificate_hash": "ba0e1ae50c6be7b06b8b74d075309d0264a317ca"
+          }
+        },
+        {
+          "client_id": "210079289590-3b1cl675gl61551r2nc0ie0esib3fk2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA40o1bCzErl6HkN70QTkque7NHQAuLTfA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210079289590-3b1cl675gl61551r2nc0ie0esib3fk2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210079289590:android:9a77f75707420706",
+        "android_client_info": {
+          "package_name": "com.example.estudiante.registrocarolina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210079289590-0uh2sshsjoub2l1ot16dub5rjbtbpbfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.estudiante.registrocarolina",
+            "certificate_hash": "d784ab6c47b0e6f24c169f69e4a49a19d9390f43"
+          }
+        },
+        {
+          "client_id": "210079289590-3b1cl675gl61551r2nc0ie0esib3fk2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA40o1bCzErl6HkN70QTkque7NHQAuLTfA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210079289590-3b1cl675gl61551r2nc0ie0esib3fk2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210079289590:android:bcc234d9264f847b",
+        "android_client_info": {
+          "package_name": "com.example.usuario.listasprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210079289590-rqar7fetduuc7jjmqpsnc5jrtsvtfumd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.usuario.listasprueba",
+            "certificate_hash": "8a4c7743c42e1aeacf1d9f6153c7fcb38b46717a"
+          }
+        },
+        {
+          "client_id": "210079289590-3b1cl675gl61551r2nc0ie0esib3fk2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA40o1bCzErl6HkN70QTkque7NHQAuLTfA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210079289590-3b1cl675gl61551r2nc0ie0esib3fk2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210079289590:android:c77e9650ea2b8353",
+        "android_client_info": {
+          "package_name": "com.example.usuarioinvitado.listasprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210079289590-3r6is560qptjaq6broismeei2ls0fvmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.usuarioinvitado.listasprueba",
+            "certificate_hash": "283fd9634ae625a4d8b37b590f13924551e99363"
+          }
+        },
+        {
+          "client_id": "210079289590-3b1cl675gl61551r2nc0ie0esib3fk2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA40o1bCzErl6HkN70QTkque7NHQAuLTfA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210079289590-3b1cl675gl61551r2nc0ie0esib3fk2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210079289590:android:bd39479868c2e55a",
+        "android_client_info": {
+          "package_name": "com.example1.estudiante.registro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210079289590-3b1cl675gl61551r2nc0ie0esib3fk2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA40o1bCzErl6HkN70QTkque7NHQAuLTfA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210079289590:android:77378529b4b41d77",
+        "android_client_info": {
+          "package_name": "jess.rendon.dmi.com.repasos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210079289590-klghrhflnvmg78spldhv1gjesk6jurrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jess.rendon.dmi.com.repasos",
+            "certificate_hash": "d784ab6c47b0e6f24c169f69e4a49a19d9390f43"
+          }
+        },
+        {
+          "client_id": "210079289590-3b1cl675gl61551r2nc0ie0esib3fk2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA40o1bCzErl6HkN70QTkque7NHQAuLTfA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210079289590-3b1cl675gl61551r2nc0ie0esib3fk2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
